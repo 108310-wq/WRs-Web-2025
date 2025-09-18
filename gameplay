@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Wistful remnants</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+        <header>
+
+            <nav>
+                <link href="index.html"><h2 class="nname">Wistful Remnants</h2></link>
+
+                <ul class="navbar">
+                    <li class="navbut">
+                        <h3 href="Download">Download</h3>
+                    </li>
+                    <li class="navbut">
+                        <h3 href="About Us">About Us</h3>
+                    </li>
+                    <li class="navbut">
+                        <h3 href="gameplay">Gameplay</h3>
+                    </li>
+                    <li class="navbut">
+                        <h3 href="index.html">Home</h3>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+</body>
+
+</html>
