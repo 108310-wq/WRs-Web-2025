@@ -20,7 +20,7 @@ header{
 .wrtitle{
     text-align: center;
     margin:50px 50px;
-    text-size-adjust: 50%;
+    font-size: 80px;;
 }
 
 .navbar{
